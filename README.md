@@ -1,4 +1,4 @@
-# Nazif Altintas
+# Nazif 
 
 
 # java-tomcat-maven-example
